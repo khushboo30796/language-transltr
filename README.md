@@ -1,6 +1,7 @@
 # language-transltr
 Software Engineering Project 2
-Problem Statement: Development of a software pplication to translate literary text from one language to another
+
+Problem Statement: Development of a software application to translate literary text from one language to another
 
 Group members:-
 
@@ -8,4 +9,3 @@ Group members:-
 2. Akash Anand Kamat
 3. Surendra Chauhan
 4. Khushboo Sharma
-5. 
