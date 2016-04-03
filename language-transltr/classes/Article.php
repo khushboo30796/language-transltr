@@ -31,7 +31,6 @@ class Article
 	dataObject::disconnect($conn);
 	if($row)
 		list($this->articleID,$this->year,$this->title,$this->language,$this->file_size,$this->file_name,$this->file_path,$this->translations,$this->pages)=$row;
-	
 	}
 	catch(PDOException $e)
 	{
@@ -51,19 +50,35 @@ class Article
 			if($this->pages==0)
 			{
 		    $page_array=array();
-			$x=shell_exec("pdftotext -layout {$this->file_name}");
-			$file_path=substr($this->file_path,0,-5);
+			chdir('../articles');
+			$cmd="pdftotext -raw {$this->file_name}";
+			exec($cmd);
+			
+			chdir('../classes');
+			$file_path=substr($this->file_path,0,-4);
 			$file_path.='.txt';
-			$lines=file($file_path, FILE_SKIP_EMPTY_LINES);
-			for($i=0;$i<count($lines);$i+=15)
+			$file_path=basename($file_path);
+			$file_path="..\\articles\\"."$file_path";
+			
+			$lines=explode('.',file_get_contents($file_path));
+			
+			foreach($lines as &$line)
 			{
-				$temp_arr=array_slice($lines,$i,$i+15);
+		    $line=strtr($line,"\r","   ");
+			$line.='.';
+			}
+			
+			for($i=0;$i<count($lines);$i+=10)
+			{
+				$temp_arr=array_slice($lines,$i,$i+9);
 				$page_content=implode('',$temp_arr);
-				$page_no=$i/15+1;
-				$pagehandle=fopen("/pages/{$this->file_name}_{$page_no}.txt",'w');
+				$page_no=$i/10+1;
+				
+				
+				$pagehandle=fopen("../pages/{$this->file_name}_{$page_no}.txt",'w');
 				fwrite($pagehandle,$page_content);
 				fclose($pagehandle);
-				$page_path=realpath("/pages/{$this->file_name}_{$page_no}.txt");
+				$page_path=realpath("../pages/{$this->file_name}_{$page_no}.txt");
 				$page_array[$page_no]=$page_path;
 			}
 			return $page_array;

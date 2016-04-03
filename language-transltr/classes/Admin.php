@@ -16,7 +16,8 @@ class Admin
 		$page_array= $obj->split();
 
 		//put pages in queue csv
-		$queueHandle=fopen("pageQueue.csv",'a');
+		
+		$queueHandle=fopen("../pages/pageQueue.csv",'a');
 		foreach($page_array as $no=>$path)
 		{
 			$record=array($obj->returnID(),$no,$path);
@@ -36,7 +37,7 @@ class Admin
 				$st->bindValue(":page_no",$no,PDO::PARAM_INT);
 				$st->bindValue(":language",$obj->returnLanguage(),PDO::PARAM_STR);
 				$st->bindValue(":file_name",basename($path),PDO::PARAM_STR);
-				$st->bindValue(":file_size",filesize($path),PDO::PARAM_FLOAT);
+				$st->bindValue(":file_size",filesize($path),PDO::PARAM_STR);
 				$st->bindValue(":file_path",$path,PDO::PARAM_STR);
 				$st->execute();
 			}
@@ -66,6 +67,7 @@ class Admin
 			die("failed to update no of pages:".$e->getMessage());
 		}
 		dataObject::disconnect($conn);
+		
 	}
 }
 

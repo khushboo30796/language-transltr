@@ -20,17 +20,6 @@ class Translator extends Author
 	public function submitTranslation()
 	{
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 	}
 }
 ?>
