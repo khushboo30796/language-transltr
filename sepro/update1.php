@@ -54,6 +54,7 @@ if(isset($_POST["load"]) || isset($_POST["upd"]) || isset($_POST["up"])){
           <tr> <td> pg start </td> <td> <input type="text" name="pgstart" value="'.$row[6].'" > </td> </tr>
           <tr> <td> pg end </td> <td> <input type="text" name="pgend" value="'.$row[7].'" > </td> </tr>
           <tr> <td> url </td> <td> <input type="text" name="url" value="'.$row[8].'" > </td> </tr>
+          <tr> <td> url </td> <td> <input type="text" name="auth" value="'.$row[9].'" > </td> </tr>
            </table> ';
 
            if(isset($_POST["upd"]))
@@ -64,7 +65,7 @@ if(isset($_POST["load"]) || isset($_POST["upd"]) || isset($_POST["up"])){
 
            if(isset($_POST["up"]))
            {
-           		$uq='update journal set jname="'.$_POST["jname"].'",title="'.$_POST["title"].'",acad_year="'.$_POST["acadyear"].'",pub_year='.$_POST["pubyear"].',issue='.$_POST["issue"].',vol='.$_POST["vol"].',pg_start='.$_POST["pgstart"].',pg_end='.$_POST["pgend"].',url="'.$_POST["url"].'" where title="'.$t.'";';
+           		$uq='update journal set jname="'.$_POST["jname"].'",title="'.$_POST["title"].'",acad_year="'.$_POST["acadyear"].'",pub_year='.$_POST["pubyear"].',issue='.$_POST["issue"].',vol='.$_POST["vol"].',pg_start='.$_POST["pgstart"].',pg_end='.$_POST["pgend"].',url="'.$_POST["url"].'",author_name="'.$_POST["auth"].'" where title="'.$t.'";';
            		$res3=$conn->query($uq);
            		if($res3)
            		{

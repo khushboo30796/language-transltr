@@ -1,7 +1,8 @@
 <?php
 include "connection.php";
-$fid=$_COOKIE["fid"];
-$q1="select * from faculty where fid ='".$fid."';";
+session_start();
+$fid=$_SESSION['login'];
+$q1="select * from users where fid ='".$fid."';";
 $r1=$conn->query($q1);
 $arr=$r1->fetch_assoc();
 ?>
@@ -21,13 +22,13 @@ $arr=$r1->fetch_assoc();
 $flag=0;
 
 $n=$_POST['name'];
-$d=$_POST['dept'];
+$ph=$_POST['phno'];
 $e=$_POST['email'];
+$in=$_POST['inst'];
 
 if (isset($_POST['upd']))
 {
-$q2="update faculty set fname='".$n."', dname='".$d."',email='".$e."' where fid='".$fid."';";
-//echo $q2;
+$q2="update users set name='".$n."', email='".$e."',phno='".$ph."',institution='".$in."' where fid='".$_SESSION['login']."';";
 $r2=$conn->query($q2);
 if($r2)
 	{$flag=1;
@@ -40,26 +41,33 @@ else
 
 if($flag==0)
 {
+	//echo $arr['institution'] . "<br>";
 $str='<center><form action="upduinfo1.php" method="POST">
 <table >
+
 <tr>
-	<td>ID</td>
-	<td><input type="text"  name="ID" value='.$arr["fid"].' readonly></td>
+	<td><b>Username : </b></td>
+	<td><b>'.$_SESSION['login'].'</b></td>
 </tr>
 
 <tr>
 	<td>Name</td>
-	<td><input type="text" name="name" value="'.htmlspecialchars($arr["fname"]).'""></td>
+	<td><input type="text" name="name" value="'.$arr["name"].'"></td>
 </tr>
 
 <tr>
-	<td>Department</td>
-	<td><input type="text" name="dept" value='.$arr["dname"].'></td>
+	<td>Email ID</td>
+	<td><input type="text"  name="email" value='.$arr["email"].'></td>
 </tr>
 
 <tr>
-	<td>Email</td>
-	<td><input type="text" name="email" value='.$arr["email"].' ></td>
+	<td>Phone No.</td>
+	<td><input type="text" name="phno" value='.$arr["phno"].'></td>
+</tr>
+
+<tr>
+	<td>Institution</td>
+	<td><input type="text" name="inst" value="'. $arr["institution"] .'" ></td>
 </tr>
 </table>
 <input type="submit" name="upd" value="Update">

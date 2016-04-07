@@ -9,7 +9,7 @@ include "connection.php";
 		background-position: 50% 28%;
 		background-size: 500px 800px
 		">
-<p align='right'><a href="displaypub3.php"> portal</a></p>
+<p align='right'><a href="displaypub3.php">View papers</a></p>
 <center>
 <h2>Indian Institute of Technology Indore</h2>
 <h1>KSHIP</h1>
@@ -35,7 +35,7 @@ include "connection.php";
 <?php
 $un=$_POST['uname'];
 $pw=$_POST['pwd'];
-
+$pw=md5($pw);
 $q="select fid from users where fid='".$un."' and password='".$pw."';";
 $r=$conn->query($q);
 $flag=0;
@@ -45,13 +45,19 @@ while($arr=$r->fetch_assoc())
 	$flag=1;
 	}
 if($flag==0 and isset($_POST['sub']))
-	echo "Invalid entry";
+	echo "Incorrect username or password";
 else if($flag==1 and isset($_POST['sub']))
 	{
 	echo "valid entry";
-	$cookie_name="fid";
-	$value=$_POST['uname'];
-	setcookie($cookie_name,$value);
+	//$cookie_name="fid";
+	//$value=$_POST['uname'];
+	//setcookie($cookie_name,$value);
+	session_start();
+	$_SESSION['login']=$un;
+	echo $_SESSION['login'];
+	if($un=="admin")
+	header("Location: adminhome.php");
+	else
 	header("Location: loginhome1.php");
 	}
 ?>

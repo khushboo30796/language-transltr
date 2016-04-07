@@ -1,4 +1,3 @@
-
 <?php
 include "connection.php";
 ?>
@@ -393,7 +392,6 @@ else{
 	echo '</table></div>';
 
 }
-
 /*
 $res=$conn->query($sql);
 //echo $sql;

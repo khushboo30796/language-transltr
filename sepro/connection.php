@@ -1,9 +1,9 @@
 <?php
 
-$h='127.0.0.1';
+$h='localhost';
 $u='root';
 $p='';
-$d='db';
+$d='portal';
 
 $conn=new mysqli($h,$u,$p,$d);
 

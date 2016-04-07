@@ -37,6 +37,9 @@ if(isset($_POST['subm']))
 			<td>Title: </td><td><input type= "text" name="title"></td>
 		</tr>
 		<tr>
+			<td>Author:</td><td> <input type= "text" name="auth"></td>
+		</tr>
+		<tr>
 			<td>Academic Year: </td><td><input type= "text" name="acad_year"></td>
 		</tr>
 		<tr>
@@ -54,6 +57,7 @@ if(isset($_POST['subm']))
 		<tr>
 			<td>Ending page:</td><td> <input type= "text" name="pg_end"></td>
 		</tr>
+		
 		<tr>
 			<td>Url:</td><td> <input type= "text" name="url"></td>
 		</tr>

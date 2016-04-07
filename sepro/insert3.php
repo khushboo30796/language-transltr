@@ -23,7 +23,24 @@ $t=$_POST['typ'];
 			{
 			if($t=="Research Paper")
 				{
-				$q1="insert into journal values('".$_POST["jname"]."','".$_POST["title"]."','".$_POST["acad_year"]."',".$_POST["pub_year"].",".$_POST["issue"].",".$_POST["vol"].",".$_POST["pg_start"].",".$_POST["pg_end"].",'".$_POST["url"]."');";
+				$targetfolder = "/var/www/html/sepro/uploads/";
+ 
+				 $targetfolder = $targetfolder . basename( $_FILES['file']['name']) ;
+ 					
+				if(move_uploaded_file($_FILES['file']['tmp_name'], $targetfolder))
+ 
+				 {
+ 
+				 echo "The file ". basename( $_FILES['file']['name']). " is uploaded";
+ 
+				 }
+				 
+				$q1="insert into journal values('".$_POST["jname"]."','".$_POST["title"]."','".$_POST["acad_year"]."',".$_POST["pub_year"].",".$_POST["issue"].",".$_POST["vol"].",".$_POST["pg_start"].",".$_POST["pg_end"].",'uploads/". basename( $_FILES['file']['name']) ."','".$_POST["auth"]."');";
+				
+				
+				
+				
+				 
 				$r1=$conn->query($q1);
 				if($r1)
 					{
@@ -31,11 +48,11 @@ $t=$_POST['typ'];
 					$fid=$_COOKIE["fid"];
            				$q2='insert into author_journal value('.$fid.',"'.$_POST["title"].'");';
             				$res2=$conn->query($q2);
-					echo "<a href='insert1.php'>Go back</a>";
+					echo "<a href='insert4.php'>Go back</a>";
 					}
 				else
 					{echo "Invalid Entries<br>";
-					echo "<a href='insert1.php'>Go back</a>";
+					echo "<a href='insert4.php'>Go back</a>";
 					}
 				}
 				
