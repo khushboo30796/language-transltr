@@ -1,0 +1,22 @@
+ 
+5. According to you what features of Agile Development are not as promising as they are 
+made out to be? 
+6. There is a contradiction between Agile Development and Geographically Distributed 
+Development. What is this contradiction? How would you propose to overcome this 
+contradiction? 
+7. Continuing with the example of an application similar to 'Flipkart', identify and design 
+the use case diagrams for this application. 
+8. For each use-case identified, draw the sequence-diagram for representing interaction 
+between possible components. 
+9. Continuing with the example of an application similar to 'Flipkart', identify and design 
+the use case diagrams for this application. 
+10. For each use-case identified, draw the sequence-diagram for representing interaction 
+between possible components. 
+11. A client wants you to develop an application similar to 'Flipkart'. Identify and develop 
+the user stories for this application. 
+12. How would you restrict 'scope creep' while discussing requirements with the clients? 
+13. What changes, according to you, could make the Classical Waterfall Model of Software 
+Development more effective and useful? 
+ 14. In your opinion, how would you combine the three categories of Software Process 
+Models to develop the best quality software? Justify your answer. 
+15.

@@ -1,0 +1,393 @@
+International Journal of u- and e- Service, Science and Technology
+Vol.6, No.6 (2013), pp.187-194
+http://dx.doi.org/10.14257/ijunesst.2013.6.6.17
+ISSN: 2005-4246 IJUNESST
+Copyright  2013 SERSC
+E-Commerce or Internet Marketing: A Business Review from
+Indian Context
+D. K. Gangeshwer
+Department of Mathematics, Bhilai Institute of Technology (BIT), Durg, (C.G),
+INDIA
+dgangeshwar@yahoo.co.in
+Abstract
+This paper deals the conceptual knowledge of search engine marketing (SEM) or e-
+commerce, literature review, current and future aspects of e-commerce in Indian context.
+This paper discussed about the top motivator factors of shopping online. The present
+development would be a valuable addition to researcher and academicians; and useful
+theory for practitioners, advertisers, and entrepreneurs.
+Keywords: SEM, Online Marketing or E-commerce, Pay-per-click (PPC)
+1. Introduction
+Khan and Mahapatra (2009) remarked that technology plays a vital role in improving
+the quality of services provided by the business units. One of the technologies which
+really brought information revolution in the society is Internet Technology and is rightly
+regarded as the third wave of revolution after agricultural and industrial revolution. The
+cutting edge for business today is e-Commerce. The effects of e-commerce are already
+appearing in all areas of business, from customer service to new product design. It
+facilitates new types of information based business processes for reaching and interacting
+with customers like online advertising and marketing, online order taking and online
+customer service etc. It can also reduce cost in managing orders and interacting with a
+wide range of suppliers and trading partners, areas that typically add significant overheads
+to the cost of products and services [Rajiv Rastogi]. Businesses are increasingly using the
+Internet for commercial activities. The ubiquitous nature of the Internet and its wide
+global access has made it an extremely effective mode of communication between
+businesses and customers [Rowley (2001)]. Thompson (2005) introduced that the growth
+of Internet technology has enormous potential as it reduces the costs of product and
+service delivery and extends geographical boundaries in bringing buyers and sellers
+together.
+Devendra et. al., (2012) defined that electronic commerce, commonly known as e-
+commerce or eCommerce, consists of the buying and selling of products or services over
+electronic system such as internet and other computer network. Intent is the technology
+for e-commerce as it offers easier ways to access companies and individuals at very low
+cost n order to carry out day-to-day business transactions. Search engine marketing
+(SEM) is a form of web advertising that companies use to promote their products and
+services on search engine results pages (SERPs). SEM is focused on the effective use of
+search engine advertisements (a.k.a., sponsored results, sponsored links) that appear on
+the SERP. SEM which allows firms to target consumers by placing ads on search engines
+has proven to be an effective audience acquisition strategy. Unlike traditional online
+advertising, advertisers pay only when users actually click on an ad when successfully
+implemented, SEM can generate steady traffic levels and tremendous return on
+investment (ROI).
+International Journal of u- and e- Service, Science and Technology
+Vol.6, No.6 (2013)
+188 Copyright  2013 SERSC
+Boughton (2005) remarked that most online advertising campaigns have two main
+objectives: brand development and direct response. Selecting an appropriate marketing
+channel ultimately depends on which strategies will provide the greatest ROI. Firms that
+offer products and services through the Web clearly stand to gain from Internet
+advertising because their prospective customers are already online. Non web-based
+companies may choose online marketing in order to increase exposure and promote brand.
+SEM allows companies to closely track their ROI from an audience acquisition
+standpoint. SEM delivers ads to users who are already searching for the products or
+services that an advertiser is offering, meaning that theoretically, they are only receiving
+qualified traffic. Unlike traditional banner ads, advertisers are charged based on the
+number of clicks they receive, not on the number of impressions (number of times an ad
+appears). Furthermore, many marketing campaigns place a great deal of importance on
+branding. PPC ads can be very effective in terms of driving home a brand name because
+they appear alongside search results for thousands of different search terms. SEM is a
+form of Internet marketing that involves the promotion of websites by increasing their
+visibility in SERP through optimization (both on-page and off-page) as well as through
+advertising (paid placements, contextual advertising, and paid inclusions) [Search Engine
+Land 2007].
+This paper deals the conceptual knowledge of search engine marketing or e-commerce,
+literature review, current and future aspects of e-commerce in Indian context. This paper
+discussed about the top motivator factors of shopping online. The present development
+would be a valuable addition to researcher and academicians; and useful theory for
+practitioners, advertisers, and entrepreneurs. The further research areas are; the quality of
+sponsored ad text, ad position, Search Engine Optimization (SEO), PageRank, yellow
+pages, bid management etc.
+2. Literature Review
+Literature on web theory is scant because it is a relatively a new area and the
+technologists at the forefront of Web design are typically not sufficiently academically
+inclined to formulate the relevant theories (Day, 1997). While previous research has
+examined Internet usage (Teo, Lim, & Lai, 1999), commercial websites (Gonzalez and
+Palacios, 2004), website design (Kim, Shaw, & Schneider, 2003), website effectiveness
+from the consumers' perspective (Bell & Tang, 1998), pricing paid placements on search
+engine (Sen et. al., 2008), and bidding (Bernard and Simone, 2011). This form of online
+advertising emerged in 1998 [Fain and Pedersen 2006], rapidly has become the central
+business model of the major search engines [Jansen and Mullen 2008], and is one of the
+most rapidly growing segments of the online marketing area [SEMPO Research 2009]
+Search engine has become a necessity for people to surf the web [Hsien-Tsung Chang,
+2011]. It is a simple user interface is designed. Any user simply fills in several fields and
+the system makes the decision about what to find, where to search and how to look at. The
+threshold of search is lowered. SEM is an internet marketing model aiming at promoting
+the ranking of websites in the search engine's search results page which can make a web
+site introduce into more web users and website traffic [iProspect 2008]. Li-Hsing HO et.
+al., (2011) explained about exploration of SEO technology applied in internet marketing,
+Kesharwani and Tiwari (2011) studied the importance of website quality towards the
+success or failure of any e-vendor. Khan and Mahapatra (2009) studied that the quality of
+internet banking (i-banking) services in India from customer's perspective. Malhotra and
+Singh (2007) carried out a research to find the i-banking adoption by the banks in India.
+Thus, it is high time that India should act fast and decisively in order to use the growing
+electronic trade to our advantage.
+International Journal of u- and e- Service, Science and Technology
+Vol.6, No.6 (2013)
+Copyright  2013 SERSC 189
+3. Types of E-Commerce
+Waghmare G.T. (2012) has defined the following types of e-commerce:
+(i) B2B E-Commerce: Companies doing business with each other such as manufacturers
+selling to distributors and wholesalers selling to retailers. Pricing is based on quantity
+of order and is often negotiable.
+(ii) B2C E-Commerce: Businesses selling to the general public typically through cataloes
+utilizing shopping cart software. By dollar volume, B2B takes the prize, however
+B2C is really what the average Joe has in mind with regards to ecommerce as a
+whole. for example indiatimes.com.
+(iii) C2C E-Commerce: There are many sites offering free classifieds, auctions, and
+forums where individuals can buy and sell thanks to online payment systems like
+PayPal where people can send and receive money online with ease. eBay's auction
+service is a great example of where customer-to customer transactions take place
+every day.
+(iv) Others: G2G (Government-to-Government), G2E (Government-to-Employee), G2B
+(Government-to-Business), B2G (Business-to-Government).
+4. E-Commerce in India
+The internetworldstates.com shows that Asia has 44.8% internet users in the world
+distributed by world regions 2012 Q2.
+Source: Internet World Stats ­www.internetworldstates.com/stats.htm
+Waghmare (2012) pointed out that many countries in Asia are taking advantage of
+Ecommerce through opening of economies, which is essential for promoting competition
+and diffusion of Internet technologies. Large enough to have a critical mass of 10 to 20
+million users to be able to make an impact on e-commerce and e-governance. In the next
+3 to 5 years, India will have 30 to 70 million Internet users which will equal, if not
+surpass, many of the developed countries. Internet economy will then become more
+meaningful in India. With the rapid expansion of internet, Ecommerce, is set to play a
+very important role in the 21st century, the new opportunities that will be thrown open,
+will be accessible to both large corporations and small companies. A recent report by the
+44.80%
+21.50%
+11.40%
+10.40%
+7%
+3.70%1%
+Internet Users in the World Distribution by World Regions Q2
+2012
+Asia 44.8%
+Europe 21.5%
+North America 11.4%
+Lat Am 10.4%
+Africa 7%
+Middle East 3.7%
+Australia 1%
+International Journal of u- and e- Service, Science and Technology
+Vol.6, No.6 (2013)
+190 Copyright  2013 SERSC
+Internet and Mobile Association of India (IMAI) reveals that India' a e-commerce market
+is growing at an average rate of 70 percent annually, and has grown over 500 percent in
+the past three years alone [geocart.com].
+Zia and Manish (2012) proposed that ecommerce revenues in India will increase by
+more than five times by 2016, jumping from US$1.6 billion in 2012 to US$8.8 billion in
+2016 (As shown in Figure 1)
+Source: Forrester Research Online Retail Forecast 2011 to 2016
+Economic times (2013) stated that the next billion users will come from emerging
+markets, with at least a fourth from "India". Half of those without net access now live in
+just 5 countries: India Indonesia, China, Pakistan & Bangladesh. Another newspaper
+Times of india (2013) written that leading online stores such as Indiatimes Shopping,
+Jabong and Myntra say that almost half, and in some cases more than half, of their sales
+now come from tier-II and tier-III towns and cities. E-commerce in the country grew 128
+per cent year-on-year last year, with 25 per cent traffic coming from places outside the top
+20 cities, it says.
+Shoppers in Metropolitan India
+Zia and Manish (2012) found that, currently, shoppers in metropolitan India are driving
+eCommerce: These consumers are primarily buying travel, consumer electronics, and
+books online. And although spending per online buyer remains low, some 59% of online
+consumers in metropolitan India already make purchases online at least monthly.
+Shoppers in non-metropolitan India
+Consumers in nonmetropolitan areas will also help fuel growth; unlike online
+consumers in cities, they are more likely to shop online for goods that are unavailable at
+local stores. Zia and Manish (2012) estimated that eCommerce retailers in India are
+expanding their offerings to the online population outside metropolitan India and are
+investing heavily in the infrastructure to support these cities.10 Online apparel retailer
+Myntra.com is already seeing demand for its products outside metropolitan India: 50% of
+its sales are outside India's 10 biggest cities. To widen their reach, for example, multiple
+retailers are building warehouses outside central locations; testing shipping options that
+work in rural areas; offering payment options like cash on delivery (COD) that provide
+options for the unbanked; and subsequently marketing these to semi-urban and rural
+consumers.
+Moreover, Aditya Kulkarni , Product Manager at Google (Jan 15, 2013) pointed out
+that India maybe behind the curve on the numbers, but they are growing fast, and when
+they reach the 200-300 million online shoppers, you can safely assume that there will at
+1.6
+8.8
+0
+2
+4
+6
+8
+10
+2012 2016
+Revenue (in US $ Billion)
+Year
+Forecast: India Online Retail Revenues (B2B and B2C)
+International Journal of u- and e- Service, Science and Technology
+Vol.6, No.6 (2013)
+Copyright  2013 SERSC 191
+least be as many e-Commerce players in India as there are in China. That is to say, there
+will be at least 10-20 successful, large and growing e-Commerce companies in India over
+the next few years!. I think the successful companies of tomorrow are going to look
+different from the ones that are on the top now. There's going to be 100-200 million new
+e-Commerce customers that are going to be up for grabs in the next few years. Another
+way to look at it is that in 80% of the e-Commerce shoppers of 2016 still are available to
+be nabbed by e-Commerce sites. And they're going to come from predominantly two
+categories. First, from Tier-2 and Tier-3 cities as the logistics and connectivity there
+improve and second, young people that get jobs/pocket-money and start shopping online
+5. Major Search Engines in the Market
+By distinct search engines, means that search engines, portals, and websites who have
+alliances and who solicit bids for paid placements from a single source are treated as one
+search engine. For instance, by successfully bidding for a paid link with Overture exposes
+a seller to traffic from several websites, including MSN, Yahoo!, AltaVista, InfoSpace,
+AlltheWeb and NetZero. There are various search engines by content/topic such as Baidu
+(Chinese, Japanese), Bing, Blekko, Google, Sogou (Chinese), Soso.com (Chinese),
+Volunia, WireDoo, Yahoo!, Yandex (Russian), Yebol, and Yodao (Chinese). Among PPC
+providers, Google AdWords, Yahoo! Search Marketing, and Microsoft adCenter are the
+three largest network operators, and all three operate under a bid-based model.
+6. The Advantages and Disadvantages of Internet Marketing
+Melody and Robert (2001) remarked that the Internet can provide timely information to
+customers because of its ability for instant communication, and its availability 24 hours a
+day, 7 days a week [Lane, 1996]. On-line marketing offers more choices and flexibility
+[Lamoureux, 1997] and, at the same time, eliminates huge inventories, storage costs,
+utilities, space rental, etc., [Avery, 1997]. People tend to associate Internet marketing with
+direct marketing because companies participating in online marketing usually shortened
+the supply chain [Edwards, et al., 1998] and reduced commission and operating costs. The
+ability to serve as both a transaction medium and a physical distribution medium for
+certain goods is a unique feature of Internet marketing. Such advantages can be best
+realized by companies that provide digital products/services such as software, music,
+news, consulting services, online ticketing and reservations, telemedicine, insurance,
+banking, stock brokerage, tax, and other financial service industries. Using the Internet as
+the distribution channel can reduce not only the delivery cost substantially, but also
+ensures instant delivery of products/services.
+Moreover, Ruckman (2012) suggested that Internet research becomes an increasingly
+important tool during the purchasing process; more marketers are seeing the advantages
+too. It's a win-win situation. Marketing departments are investing more into online
+marketing today because it's:
+ Attractive to a significant segment of the demographics for most
+customer profiles. It can effectively reach the target customer.
+ Faster and less expensive to conduct direct marketing campaigns
+ Measurable, which means that successes are identifiable and repeatable
+ Open 24-hours a day
+ Cost-effective, in the long run.
+Disadvantages:
+There is no actual face-to-face contact involved in the Internet communication. For the
+types of products that rely heavily on building personal relationship between buyers and
+sellers such as the selling of life insurance, and the type of products that requires physical
+International Journal of u- and e- Service, Science and Technology
+Vol.6, No.6 (2013)
+192 Copyright  2013 SERSC
+examination, Internet marketing maybe less appropriate. While internet marketing cannot
+allow prospective buyers to touch, or smell or taste or 'try on' the products, However a
+survey of consumers of cosmetics products shows that email marketing can be used to
+interest a consumer to visit a store to try a product or to speak with sales representatives
+[Martin at el (2003)]. Some of the disadvantages of e-Marketing are dependability on
+technology, Security, privacy issues, Maintenance costs due to a constantly evolving
+environment, Higher transparency of pricing and increased price competition, and
+worldwide competition through globalization.
+5. Top Motivators for Shopping Online
+Times of India (February 12, 2013) has published that top motivators for shopping
+online which include cash back guarantee, cash on delivery, fast delivery, substantial
+discounts compared to retail, and access to branded products, while barriers include
+inability to touch and try products before purchase, fear of faulty products, apprehension
+of posting personal and financial details online and inability to bargain (See Figure 5.1).
+Figure 5.1. Top Motivator Factors for Shopping Online
+6. Conclusions and Recommendations
+This paper deals the conceptual knowledge of search engine marketing or e-commerce,
+literature review, current and future aspects of e-commerce in Indian context. This paper
+discussed about the top motivator factors of shopping online. The present development
+would be a valuable addition to researcher and academicians; and useful theory for
+practitioners, advertisers, and entrepreneurs. Some of the disadvantages of e-Marketing
+are dependability on technology, Security, privacy issues, Maintenance costs due to a
+constantly evolving environment, Higher transparency of pricing and increased price
+competition, and worldwide competition through globalization. While considering the
+aforesaid limitations; advertisers and end-users can effectively use this modern platform
+to make life easier and faster. In the next 3 to 5 years, India will have 30 to 70 million
+Internet users which will equal, if not surpass, many of the developed countries. Internet
+economy will then become more meaningful in India. With the rapid expansion of
+internet, Ecommerce, is set to play a very important role in the 21st century, the new
+opportunities that will be thrown open, will be accessible to both large corporations and
+Top
+Motivator
+Factors for
+shopping
+online
+Cash back
+guarantee
+Cash on
+delivery
+Fast
+delivery
+Substantial
+discounts
+compared
+to retail
+Access to
+branded
+products
+International Journal of u- and e- Service, Science and Technology
+Vol.6, No.6 (2013)
+Copyright  2013 SERSC 193
+small companies [Waghmare (2012)]. Karoor (2012) explained that Ecommerce
+encapsulates many of the dynamics of 21st century of India. The potential huge and wit
+and energy of the entrepreneurs in the sector is impressive. Online commerce in India is
+destined to grow both in revenue and geographic reach. The further research areas in
+ecommerce are; the quality of sponsored ad text, ad position, Search Engine Optimization
+(SEO), PageRank, yellow pages, and bid management etc.
+References
+[1] A. Kulkarni, Product Manager: http://yourstory.in/2013/01/indian-e-commerce-what-does-the-future-
+look-like/.
+[2] Avery, S. Online tool removes costs from process. Purchasing, vol. 123, no. 6, (1997), pp. 79-81.
+[3] S. B. Boughton, Search engine Marketing, Bart Boughton was a student in the MBA program in the
+School of Management and Business at St. Edward's University, (2005).
+[4] H. Bell and N. K. H. Tang, "The effectiveness of commercial Internet websites: a user's perspective",
+Internet Research: Electronic Networking Applications and Policy, vol. 8, no. 3, (1998), pp. 219-228.
+[5] J. Bernard and S. Simone, "Bidding on the buying funnel for sponsored search and keyword
+advertising", Journal of Electronic Commerce Research, vol. 12, no. 1, (2011), pp. 1-18.
+[6] A. Day, "A model of monitoring Web site effectiveness", Internet Research: Electronic Networking
+Applications and Policy, vol. 7, no. 2, (1997), pp. 109-115.
+[7] D. Agrawal, R. P. Agrawal, J. B. Singh and S. P. Tripathi, "E-commerce: True Indian Picture", Journal
+of Advances in IT, vol. 3, no. 4, (2012), pp. 250-257.
+[8] N. Edwards, S. Handcock and J. Mullen, "Electronic commerce: reality bytes", Supply Management,
+vol. 3, no. 8, (1997), pp. 32-34.
+[9] D. C. Fain and J. O. Pedersen, "Sponsored Search: A Brief History", Bulletin of the American Society
+for Information Science and Technology, vol. 32, no. 2, (2006), pp. 12-13.
+[10] F. J. M. Gonzalez and T. M. B. Palacios, "Quantitative evaluation of commercial websites: an empirical
+study of Spanish firms", International Journal of Information Management, geocart.com :
+http://www/geocart.com/online-business-success.asp, vol. 24, no. 4, (2004), pp. 313-328.
+[11] H.-T. Chang and S. Wu, "A Switching Proxy for Web Search Engines. Advanced in Information
+Sciences and Service Sciences", Advanced Institute of Convergence Information Technology, vol. 3, no.
+5, (2011), pp. 52.
+[12] IProspect, Information on http://www.iprospect.com/search-engine-marketing-university/, (2008).
+[13] B. J. Jansen and T. Mullen, "Sponsored search: An overview of the concept, history, and technology",
+International Journal of Electronic Business, vol. 6, no. 2, (2008), pp. 114-131.
+[14] U. Karoor, "E-commerce in India: Early Bards expensive worms", Consumer and shopper insights,
+(2012).
+[15] A. Kesharwani and R. Tiwari, "Exploration of Internet Banking Website Quality in India: A Webqual
+Approach", Great Lakes Herald, vol. 5, no. 1, (2011), pp. 40-58.
+[16] S. E. Kim, T. Shaw and H. Schneider, "Web site design benchmarking within industry groups", Internet
+Research, vol. 13, no. 1, (2003), pp. 17-26.
+[17] M. S. Khan and S. S. Mahapatra, "Service quality evaluation in internet banking: an empirical study in
+India", Int. J. Indian Culture and Business Management, vol. 2, no. 1, (2009), pp. 30-46.
+[18] T. Lamoureux, "IS goes shopping on the web", Computerworld, vol. 31, no. 46, (1997), pp. 106.
+[19] L.-H. Ho, M.-H. Lu, C.-P. Lee and T.-F. Peng, "Exploration of Search Engine Optimization Technology
+Applied in, Internet Marketing", Advances in Information Sciences and Service Sciences, vol. 3, no. 7,
+(2011).
+[20] P. Malhotra and B. Singh, "Determinants of internet banking adoption by banks in India", Internet
+Research, vol. 17, no. 3, (2007), pp. 323-339.
+[21] B. A. S. Martin, J. Van Durme, M. Raulas and M. Merisavo, "E-mail Marketing: Exploratory Insights
+from Finland", Journal of Advertising Research, vol. 43, no. 3, (2003), pp. 293-300.
+[22] M. Y. Kiang and R. T. Chi, "A framework for analyzing the potential benefits of internet marketing",
+Journal of Electronic Commerce Research, vol. 2, no. 4, (2001), pp. 157-163.
+[23] R. Rastogi, "Country Report on E-Commerce (India, Ministry of Communications and Information
+Technology", Department of Information Technology, Office of the Controller of Certifying
+Authorities), pp. 133-146.
+[24] J. Rowley, "Remodeling marketing communications in an Internet environment", Internet Research,
+Electronic Networking: Applications and Policy, vol. 11, no. 3, (2001), pp. 203-212.
+[25] R. R. Ruckman, http://www.imgrind.com/10-advantages-of-internet-marketing/10 Advantages Of
+Internet Marketing, (2012) January 19.
+[26] SEMPO Research, "The State of Search Engine Marketing 2008 Survey of Advertisers and Agencies
+Search Engine Marketing Professional Organization", SEMPO, February, Search Engine Marketing
+Professional Organization, (2009).
+International Journal of u- and e- Service, Science and Technology
+Vol.6, No.6 (2013)
+194 Copyright  2013 SERSC
+[27] R. Sen, S. Bandyopadhyay, J. D. Hess and J. Jaisingh, "Pricing paid placements on search engine",
+Journal of Electronic Commerce Research, vol. 9, no. 1, (2008), pp. 33-50.
+[28] T. S. H. Teo, V. K. G. Lim and R. Y. C. Lai, "Intrinsic and extrinsic motivation in Internet usage",
+Omega, vol. 27, (1999), pp. 25-37.
+[29] T. S. H. Teo, "Usage and effectiveness of online marketing tools among Business-to-Consumer", B2C,
+firms in Singapore, International Journal of Information Management, vol. 25, (2005), pp. 203-213.
+[30] Times of india: http://timesofindia.indiatimes.com/tech/tech-news/internet/50-sales-of-e-commerce-
+sites-like-Indiatimes-Shopping-Myntra-Jabong-from-tier-II-III-cities/articleshow/18460504.cms, (2013)
+[31] G. T. Waghmare, "E-commerce; A Business Review and Future Prospects in Indian Business", Internet
+Marketing in India: Indian Streams Research Journal, vol. 2, no. IV, (2012), pp. 1-4.
+[32] Z. daniell Wigder and M. Bahl, "Trends in India's eCommerce Market", Forrester Research, Inc.,
+http://articles.economictimes.indiatimes.com/2013-02-13/news/37079231_1_mobile-users-net-access-
+feature-phones, (2012) August 13.
+Author
+Dr. D. K. Gangeshwar (1978), Ph. D (Statistics), is working as a
+Sr. Assistant Professor in the Bhilai Institute of Technology (BIT),
+Chhattisgarh Swami Vivekananda Technical University (CSVTU),
+Bhilai, Durg (C.G), India. His areas of subjects are Statistical
+Quality Control (SQC), Quantitative Techniques in Management,
+Optimization Methods, Research Methodology, and Econometrics
+and Decision Models. He has served as Sr. Business Analyst with
+Boonze Media Solution Pvt Ltd (BMS), Chennai for 4 years in the
+various fields of Search Engine Marketing (SEM), and Search
+Engine Optimization (SEO). He has published half a dozen
+research papers in various national and international journals.
+

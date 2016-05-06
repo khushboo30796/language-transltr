@@ -1,0 +1,10 @@
+ Can you think of 
+points of similarities between these two both in terms of characteristics and in terms of 
+manufacturing/development? 
+16. We talked about the various 'phases' in the history of Software Engineering. The current 
+phase is one of lightweight development techniques. What, in your opinion, would be 
+the next major phase? 
+17. What in your opinion is the course Software Engineering about? 
+18. Do you think the mode of teaching the course through a real project would be 
+effective? Why do you think so? 
+ .

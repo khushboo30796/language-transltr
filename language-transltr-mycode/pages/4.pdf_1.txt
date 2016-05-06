@@ -1,0 +1,10 @@
+1. One of the points discussed in class was about the kind of licensing agreement in place 
+for cases where freely available software is made part of a larger commercially 
+beneficial package. Think about this and come up with a possible license of your own 
+that would facilitate this. 
+2. Why `Open Source Hardware' not as commonly is talked of? Think how a concept like 
+this could evolve. 
+3. Think of scenarios where 'pair programming' would probably be more effective than 
+individual programming and why? 
+4. Crowd sourcing software development is often looked upon as just another variant of 
+open source software development. Do you agree or disagree with this.
