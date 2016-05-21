@@ -127,13 +127,13 @@ class Admin
 		foreach($rows as $row)
 		{
 		$pageObj=new Page($row['file_path']);
-		$str=$pageObj->loadContent();
+		$str.=$pageObj->loadContentTranslated();
 		}
-		require('../classes/fpdf181/fpdf.php');
-		$pdf = new FPDF();
-		$pdf->SetFont('Arial','',14);
-		$pdf->Write(2,$str);
-		$pdf->Output('F',"../translations/{$articleID}_translated.pdf");
+		
+		//add to file
+		$handle=fopen("../translations/{$articleID}_translated.txt",'w');
+		fwrite($handle,$str);
+		fclose($handle);
 		
 		//Make entry into database
 	$sql="insert into translations(articleID,language,file_size,file_name,file_path) values( :articleID, :language, :filesize, :filename, :filepath);";
@@ -142,9 +142,9 @@ class Admin
 			$st=$conn->prepare($sql);
 			$st->bindValue(":articleID",$articleID,PDO::PARAM_INT);
 			$st->bindValue(":language",'hindi',PDO::PARAM_STR);
-			$st->bindValue(":filesize",filesize("../translations/{$articleID}_translated.pdf"),PDO::PARAM_INT);
-			$st->bindValue(":filename","{$articleID}_translated.pdf",PDO::PARAM_STR);
-			$st->bindValue(":filepath",realpath("../translations/{$articleID}_translated.pdf"),PDO::PARAM_STR);
+			$st->bindValue(":filesize",filesize("../translations/{$articleID}_translated.txt"),PDO::PARAM_INT);
+			$st->bindValue(":filename","{$articleID}_translated.txt",PDO::PARAM_STR);
+			$st->bindValue(":filepath",realpath("../translations/{$articleID}_translated.txt"),PDO::PARAM_STR);
 			$st->execute();
 			
 		}
